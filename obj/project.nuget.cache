@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ft/PVaxe/6Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilbeyli\\.nuget\\packages\\livecharts.core\\0.9.8\\livecharts.core.0.9.8.nupkg.sha512",
+    "C:\\Users\\ilbeyli\\.nuget\\packages\\livecharts.wpf.core\\0.9.8\\livecharts.wpf.core.0.9.8.nupkg.sha512"
+  ],
+  "logs": []
+}

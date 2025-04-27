@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|c:\\users\\ilbeyli\\source\\repos\\dashcore\\dashcore_card__statistic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|solutionrelative:dashcore_card__statistic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|c:\\users\\ilbeyli\\source\\repos\\dashcore\\dashcore_card__statistic.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|solutionrelative:dashcore_card__statistic.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|c:\\users\\ilbeyli\\source\\repos\\dashcore\\dashcore_card_chart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|solutionrelative:dashcore_card_chart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|c:\\users\\ilbeyli\\source\\repos\\dashcore\\dashcore_card_table.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|solutionrelative:dashcore_card_table.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|c:\\users\\ilbeyli\\source\\repos\\dashcore\\dashcore_card_table.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|solutionrelative:dashcore_card_table.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|c:\\users\\ilbeyli\\source\\repos\\dashcore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|c:\\users\\ilbeyli\\source\\repos\\dashcore\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DD27301-55D9-4A87-8206-332E1600C3BC}|DashCore.vbproj|solutionrelative:mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashCore_Card__Statistic.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card__Statistic.xaml.vb",
+              "RelativeDocumentMoniker": "DashCore_Card__Statistic.xaml.vb",
+              "ToolTip": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card__Statistic.xaml.vb",
+              "RelativeToolTip": "DashCore_Card__Statistic.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-27T21:09:17.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashCore_Card__Statistic.xaml",
+              "DocumentMoniker": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card__Statistic.xaml",
+              "RelativeDocumentMoniker": "DashCore_Card__Statistic.xaml",
+              "ToolTip": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card__Statistic.xaml*",
+              "RelativeToolTip": "DashCore_Card__Statistic.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T21:02:57.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashCore_Card_Table.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card_Table.xaml.vb",
+              "RelativeDocumentMoniker": "DashCore_Card_Table.xaml.vb",
+              "ToolTip": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card_Table.xaml.vb",
+              "RelativeToolTip": "DashCore_Card_Table.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-27T20:15:19.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashCore_Card_Table.xaml",
+              "DocumentMoniker": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card_Table.xaml",
+              "RelativeDocumentMoniker": "DashCore_Card_Table.xaml",
+              "ToolTip": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card_Table.xaml",
+              "RelativeToolTip": "DashCore_Card_Table.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T19:59:59.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T17:02:21.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashCore_Card_Chart.xaml",
+              "DocumentMoniker": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card_Chart.xaml",
+              "RelativeDocumentMoniker": "DashCore_Card_Chart.xaml",
+              "ToolTip": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\DashCore_Card_Chart.xaml",
+              "RelativeToolTip": "DashCore_Card_Chart.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T17:55:27.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "MainWindow.xaml.vb",
+              "ToolTip": "C:\\Users\\ilbeyli\\source\\repos\\DashCore\\MainWindow.xaml.vb",
+              "RelativeToolTip": "MainWindow.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-27T17:02:20.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
